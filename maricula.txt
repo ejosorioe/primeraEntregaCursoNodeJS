@@ -1,0 +1,3 @@
+El estudiante usuarioPrueba
+con cedula 123456
+se ha matriculado en El curso con id 1 se llama Estructura de datos tiene una duracion de 20 horas y cuesta 200000 pesos

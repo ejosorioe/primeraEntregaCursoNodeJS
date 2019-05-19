@@ -1,0 +1,15 @@
+{
+  "name": "primeraentrega",
+  "version": "1.0.0",
+  "description": "Primera entrega curso node.js",
+  "main": "cursos.js",
+  "scripts": {
+    "test": "node cursos -i=1 -n=usuarioPrueba -x=123456"
+  },
+  "author": "Erika Osorio",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "yargs": "^13.2.4"
+  }
+}
