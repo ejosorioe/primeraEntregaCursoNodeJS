@@ -9,6 +9,7 @@
   "author": "Erika Osorio",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "fs": "0.0.1-security",
     "yargs": "^13.2.4"
   }
